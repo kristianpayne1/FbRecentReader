@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ Connects\ the\ user's\ profile\ and\ extracts\ the\ data\ needed\r\n\r\n\ @author\ Kristian.j.Payne\r\n\ @version\ 1.2\r\n
+comment1.params=source
+comment1.target=Parser(java.lang.String)
+comment2.params=
+comment2.target=org.jsoup.nodes.Document\ getDocument()
+numComments=3
